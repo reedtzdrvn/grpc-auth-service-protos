@@ -1,4 +1,4 @@
-module grpc-auth-service-protos
+module github.com/reedtzdrvn/grpc-auth-service-protos
 
 go 1.24.1
 
